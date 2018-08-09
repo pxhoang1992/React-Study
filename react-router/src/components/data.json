@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "The Phantom Menace",
+        "quote": "Star Wars: Episode I - The Phantom Menace (1999)",
+        "content": "Two Jedi Knights escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to claim their old glory.",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/Star-Wars-Empire-Strikes-Back-V-Poster_878f7fce.jpeg?region=25%2C22%2C612%2C953&width=600"
+    },
+    {
+        "id": 2,
+        "title": "ROGUE ONE: A STAR WARS STORY",
+        "quote": "ROGUE ONE: A STAR WARS STORY",
+        "content": "From Lucasfilm comes the first of the Star Wars standalone films, “Rogue One: A Star Wars Story,” an who may bring balance to the Force all-tar Wars timeline brings together ordinary",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/Star-Wars-Phantom-Menace-I-Poster_3c1ff9eb.jpeg?region=15%2C9%2C651%2C979&width=600"
+    },
+    {
+        "id": 3,
+        "title": "Star Wars: Episode II - Attack of the Clones",
+        "quote": "STAR WARS: EPISODE II ATTACK OF THE CLONES",
+        "content": "Padawan Anakin Skywalker must choose between his Jedi duty and forbidden love, while Obi-Wan Kenobi uncovers a sinister plot that leads to war.",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/Star-Wars-Attack-Clones-II-Poster_53baa2e7.jpeg?region=18%2C0%2C660%2C1000&width=600"
+    },
+    {
+        "id": 4,
+        "title": "STAR WARS: EPISODE III REVENGE OF THE SITH",
+        "quote": "STAR WARS: EPISODE III REVENGE OF THE SITH",
+        "content": "Faced with haunting premonitions that his secret wife, Padmé Amidala, will die, Anakin Skywalker is seduced by the dark side.",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/Star-Wars-Revenge-Sith-III-Poster_646108ce.jpeg?region=0%2C0%2C736%2C1090&width=600"
+    },
+    {
+        "id": 5,
+        "title": "STAR WARS: EPISODE V THE EMPIRE STRIKES BACK",
+        "quote": "STAR WARS: EPISODE V THE EMPIRE STRIKES BACK",
+        "content": "After the destruction of the Death Star, the Empire has regrouped -- with Darth Vader leading the hunt for Luke Skywalker.",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/Star-Wars-Empire-Strikes-Back-V-Poster_878f7fce.jpeg?region=25%2C22%2C612%2C953&width=600"
+    }
+]

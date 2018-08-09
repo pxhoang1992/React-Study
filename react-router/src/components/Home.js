@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import a from '../img/1.jpg';
 
 class Home extends Component {
     render() {
@@ -22,7 +21,7 @@ class Home extends Component {
                                             <div className="device">
                                                 <div className="screen">
                                                     {/* Demo image for screen mockup, you can put an image here, some HTML, an animation, video, or anything else! */}
-                                                    <img src={a} className="img-fluid" alt="starwar3" />
+                                                    <img src="https://starwarsblog.starwars.com/wp-content/uploads/2017/01/sw-the-last-jedi-tall-1200x630.jpg" className="img-fluid" alt="starwar3" />
                                                 </div>
                                                 <div className="button">
                                                     {/* You can hook the "home button" to some JavaScript events or just remove it */}

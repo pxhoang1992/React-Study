@@ -11,7 +11,7 @@ class Contact extends Component {
                             <div className="row h-100">
                                 <div className="col-lg-12 my-auto">
                                     <div className="header-content mx-auto">
-                                        <h1 className="mb-1 text-center">Trang liên hệ</h1>
+                                        <h1 className="mb-1 text-center">Contact Page</h1>
                                     </div>
                                 </div>
                             </div>
@@ -31,28 +31,28 @@ class Contact extends Component {
                                         <div className="control-group">
                                             <div className="form-group floating-label-form-group controls mb-0 pb-2">
                                                 <label>Name</label>
-                                                <input className="form-control" id="name" type="text" placeholder="Name" value="Phùng Xuân Hoàng" required="required" data-validation-required-message="Please enter your name." />
+                                                <input className="form-control" id="name" type="text" placeholder="Name" required="required" data-validation-required-message="Please enter your name." />
                                                 <p className="help-block text-danger" />
                                             </div>
                                         </div>
                                         <div className="control-group">
                                             <div className="form-group floating-label-form-group controls mb-0 pb-2">
                                                 <label>Email Address</label>
-                                                <input className="form-control" id="email" type="email" placeholder="Email Address" value="pxhoang1992@gmail.com" required="required" data-validation-required-message="Please enter your email address." />
+                                                <input className="form-control" id="email" type="email" placeholder="Email Address" required="required" data-validation-required-message="Please enter your email address." />
                                                 <p className="help-block text-danger" />
                                             </div>
                                         </div>
                                         <div className="control-group">
                                             <div className="form-group floating-label-form-group controls mb-0 pb-2">
                                                 <label>Phone Number</label>
-                                                <input className="form-control" id="phone" type="tel" placeholder="Phone Number" value="0974 404 620" required="required" data-validation-required-message="Please enter your phone number." />
+                                                <input className="form-control" id="phone" type="tel" placeholder="Phone Number" required="required" data-validation-required-message="Please enter your phone number." />
                                                 <p className="help-block text-danger" />
                                             </div>
                                         </div>
                                         <div className="control-group">
                                             <div className="form-group floating-label-form-group controls mb-0 pb-2">
                                                 <label>Message</label>
-                                                <textarea className="form-control" id="message" rows={5} placeholder="Message" value="Đây là bài e làm vẫn chưa đúng yêu cầu lắm của bài test. Những thứ em làm liên quan đến gọi các component với nhau chưa bao gồm truyền props, và em đã thực hành router link url gọi các component ko load lại trang. Còn rất nhiều phần của react mong a cho e vào dự án để vừa làm vừa tiếp tục tìm hiểu thêm." required="required" data-validation-required-message="Please enter a message." defaultValue={""} />
+                                                <textarea className="form-control" id="message" rows={5} placeholder="Message" defaultValue={""} />
                                                 <p className="help-block text-danger" />
                                             </div>
                                         </div>
